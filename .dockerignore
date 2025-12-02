@@ -41,5 +41,4 @@ coverage
 
 # 构建工具配置
 eslint.config.js
-tsconfig*.json
 vite.config.ts
